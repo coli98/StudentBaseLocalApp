@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">RoomDataBaseRxJava</string>
+    <string name="student_age">Student Age</string>
+    <string name="student_name">Student Name</string>
+    <string name="student_subject">Student Subject</string>
+    <string name="save">Save</string>
+    <string name="add">Add</string>
+    <string name="dialog_save">Save</string>
+    <string name="dialog_delete_title">Delete?</string>
+    <string name="dialog_delete_msg">Do you want to delete </string>
+    <string name="dialog_delete">Delete</string>
+    <string name="dialog_success_title">Great!</string>
+    <string name="dialog_success_msg">Your data was saved successfully</string>
+    <string name="dialog_deleted_title">Great!</string>
+    <string name="dialog_deleted_msg">Your data was deleted successfully</string>
+    <string name="dialog_error_title">Error!</string>
+    <string name="search">Search</string>
+
+</resources>
